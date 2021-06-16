@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 929C-7981
+
+ Directory of C:\Personal\Professional\Ady\MyProjects
+
+06/17/2021  02:34 AM    <DIR>          .
+06/17/2021  02:34 AM    <DIR>          ..
+06/17/2021  02:34 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  886,204,493,824 bytes free
